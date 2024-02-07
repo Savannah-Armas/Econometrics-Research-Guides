@@ -1,0 +1,47 @@
+#Resources for Econometrics Research
+
+Cran Task View: Econometrics Respoitory 
+https://cran.r-project.org/web/views/Econometrics.html
+
+Data Resources:
+Bureau of Economic Analysis (BEA)
+https://www.bea.gov/
+The BEA is an excellent source for macroeconomic data, with a focus on national accounts - GDP and its components such as income, consumption, investment, and government expenditure. It also provides much data on employment and compensation by industry. Data are available at the national, state, and local levels, in annual, quarterly and (in some cases) monthly increments. Some industry-level data and balance-of-payments data are also available. See https://apps.bea.gov/itable/index.cfm for direct access to the data.
+
+Bureau of Labor Statistics (BLS)
+https://www.bls.gov/
+The BLS contains much data on employment, wages, and prices, at both the national and sub-national levels. See https://www.bls.gov/bls/proghome.htm for a topical breakdown of the BLS' data holdings, and see https://www.bls.gov/guide/geography/ for a summary of data availability by level of geography. Be warned that the website is not always easy to navigate.
+
+Bureau of Transportation Statistics (BTS)
+https://www.bts.gov/
+The Bureau of Transportation Statistics is an extensive source for data collections and statistical information for various modes and aspects of transportation, from highway safety to airline performance and traffic to border crossings. The Transtats Database may be of particular use. The National Highway Traffic Safety Administration and the Office of Policy Information in the Federal Highway Adminstration are related sources for data and statistics on travel.
+
+Department of Energy Energy Information Administration (EIA)
+https://www.eia.gov/
+The EIA is a very extensive source for data on energy consumption in the United States, with both annual and monthly data available. The EIA also has a collection of "navigators" with additional data on various categories of energy, such as the Petroleum Navigator that includes national and state-level data on prices, production, and consumption. The EIA also has much international data available.
+
+Economic Policy Uncertainty Index
+https://www.policyuncertainty.com/index.html
+The Economic Policy Uncertainty Index project attempts to quantity economic uncertainty created by macroeconomic policy by coding media coverage, tax codes, and economic forecasts. The data are available in monthly increments.
+
+Federal Reserve Board: Data Releases
+https://www.federalreserve.gov/data.htm
+The Board of Governors of the Federal Reserve system publishes a series of data releases on monetary and financial indicators on topics such as household finances, interest rates, exchange rates, industrial production, and monetary aggregates. Data from the various releases can be queried and downloaded via the Data Download Program.
+
+Federal Reserve District Banks
+https://www.federalreserve.gov/aboutthefed/federal-reserve-system.htm
+The individual district banks within the Federal Reserve system have their own research programs that include collecting data on national and/or regional economic conditions. Examples include the Kansis City Fed's Financial Stress Index, the San Francisco Fed's Treasury Yield Premiums, the Cleveland Fed's Systemic Risk Indicator, and the Chicago Fed's National Financial Conditions Index.
+
+Federal Reserve Economic Data (FRED)
+https://fred.stlouisfed.org/
+FRED includes time-series data for variables such as GDP, interest rates, exchange rates, consumer prices, labor markets, and money/finance. There also also add-ins available to access and use FRED data in Excel, R, R (again), Stata, and Stata (again). Most of the data are from the 1950's onwards, though some series extend back prior to WWII. While most of the data are national, there is also much in the way of state/local data and international data available here.
+
+NASDAQ Data/Quandl
+https://data.nasdaq.com/
+NASDAQ Data (formerly known as Quandl) is a data-aggregation site that provides access to roughly 7,000,000 indicators taken from multiple open, publicly-available sources such as government agencies (domestic and foreign) and international organizations. Note that Quandl classifies individual indicators as individual datasets. There are also tools to read datasets into various applications such as Excel and R and Stata.
+
+Wharton Research Data Services (WRDS)
+https://wrds-www.wharton.upenn.edu/pages/
+WRDS is an excellent source for data on both company financials (via COMPUSTAT) and stock prices (via CRSP). The university's WRDS subscription also provides access to data for measures of market volatility, balance sheets of financial institutions, models of asset performance, and hospital-level data on health services and finances. Access to the university's WRDS subscription requires registration to request an account.
+
+
